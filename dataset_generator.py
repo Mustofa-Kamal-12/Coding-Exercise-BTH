@@ -270,11 +270,11 @@ def main():
     # Summary
     print("\n\nSummary")
     print("=" * 20)
-    print("✓ Successfully analyzed original dataset characteristics")
-    print("✓ Generated new dataset with similar properties")
-    print("✓ Verified similarity using statistical tests")
-    print("✓ New dataset has twice the samples (1000 vs 500)")
-    print("✓ Used different random seed to ensure independence")
+    print("Successfully analyzed original dataset characteristics")
+    print("Generated new dataset with similar properties")
+    print("Verified similarity using statistical tests")
+    print("New dataset has twice the samples (1000 vs 500)")
+    print("Used different random seed to ensure independence")
 
 if __name__ == "__main__":
     main()
